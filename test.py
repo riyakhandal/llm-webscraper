@@ -1,1 +1,1 @@
-TEST_URL = 'https://mcassessor.maricopa.gov/'
+TEST_URL = 'https://mcassessor.maricopa.gov/mcs/'

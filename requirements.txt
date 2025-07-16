@@ -2,3 +2,5 @@ selenium==4.34.0
 beautifulsoup4==4.13.4
 boto3==1.39.2
 webdriver-manager==4.0.2
+crawl4ai==0.6.3
+pandas
